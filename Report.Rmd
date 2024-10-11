@@ -1,0 +1,16 @@
+---
+title: "Report"
+output: pdf_document
+date: "2024-10-06"
+---
+
+```{r setup, include=FALSE}
+#tinytex::install_tinytex()
+if (!tinytex::is_tinytex()) {
+  tinytex::install_tinytex()
+}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+#pdf_document
+```
+
+I will start updating this file soon
