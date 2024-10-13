@@ -9,7 +9,7 @@ smooth analysis. The instructions below will guide you through setting up the
 Docker container, installing necessary packages, and running the Makefile to 
 reproduce the results.
 
-#### Downloading the raw data from the original source
+### Downloading the raw data
 
 The raw data files are not included in this repository due to their large size. 
 To proceed with the analysis, you must download the necessary data files 
